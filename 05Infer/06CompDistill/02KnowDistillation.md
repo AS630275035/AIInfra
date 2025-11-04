@@ -1,4 +1,6 @@
-# 大模型蒸馏技术
+<!--Copyright © ZOMI 适用于[License](https://github.com/Infrasys-AI/AIInfra)版权许可-->
+
+# 03. 大模型蒸馏技术
 
 Author by：曾薇敏
 
